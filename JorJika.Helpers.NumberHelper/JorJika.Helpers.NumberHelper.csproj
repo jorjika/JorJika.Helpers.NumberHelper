@@ -22,4 +22,8 @@ Usage: NumberHelper.NumberToWord(123); Or NumberHelper.DecimalToWord(123.25, "GE
     <Company>JorJika.Net</Company>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="JorJika.Helpers.NumberHelper.csproj.vspscc" />
+  </ItemGroup>
+
 </Project>
