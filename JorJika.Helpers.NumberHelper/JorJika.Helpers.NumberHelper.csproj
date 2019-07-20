@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>JorJika</Authors>
+    <Product>JorJika.Helpers.NumberHelper</Product>
+    <Description>Helper class that converts Number or decimal to georgian word.
+Usage: NumberHelper.NumberToWord(123); Or NumberHelper.DecimalToWord(123.25, "GEL");</Description>
+    <Copyright>Copyright © JorJika.net 2018</Copyright>
+    <PackageLicenseUrl>http://jorjika.net</PackageLicenseUrl>
+    <PackageProjectUrl>http://jorjika.net</PackageProjectUrl>
+    <PackageIconUrl>http://jorjika.net/j.png</PackageIconUrl>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Company>JorJika.Net</Company>
+  </PropertyGroup>
+
+</Project>
