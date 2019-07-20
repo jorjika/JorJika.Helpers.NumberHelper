@@ -408,7 +408,7 @@ namespace JorJika.NumberToWord
         }
 
         #endregion
-        public static CultureInfo StandardCultureGet(string cultureName = "ka-GE")
+        public static CultureInfo StandardCultureGet(string cultureName = "ka-GE") 
         {
             var culture = CultureInfo.CreateSpecificCulture(cultureName);
 
