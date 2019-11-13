@@ -2,7 +2,7 @@
 using System.Globalization;
 using System.Linq;
 
-namespace JorJika.NumberToWord
+namespace JorJika.Helpers
 {
     public class NumberHelper
     {
@@ -106,6 +106,22 @@ namespace JorJika.NumberToWord
                     return "ოთხმოცდაათი";
                 case 100:
                     return "ასი";
+                case 200:
+                    return "ორასი";
+                case 300:
+                    return "სამასი";
+                case 400:
+                    return "ოთხასი";
+                case 500:
+                    return "ხუთასი";
+                case 600:
+                    return "ექვსასი";
+                case 700:
+                    return "შვიდასი";
+                case 800:
+                    return "რვაასი";
+                case 900:
+                    return "ცხრაასი";
                 case 1000:
                     return "ათასი";
                 case 10000:
