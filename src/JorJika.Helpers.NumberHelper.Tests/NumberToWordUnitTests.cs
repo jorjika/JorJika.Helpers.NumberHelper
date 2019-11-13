@@ -90,5 +90,11 @@ namespace JorJika.Helpers.Tests
         {
             NumberHelper.NumberToWord(200300000).Should().Be("ორასი მილიონ სამასი ათასი");
         }
+
+        [Fact]
+        public void NumberToWord_function_should_return_900300000_in_georgian()
+        {
+            NumberHelper.NumberToWord(900300000).Should().Be("ცხრაასი მილიონ სამასი ათასი");
+        }
     }
 }
