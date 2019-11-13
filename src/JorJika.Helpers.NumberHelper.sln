@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2019
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JorJika.Helpers.NumberHelper", "JorJika.Helpers.NumberHelper.csproj", "{69BE02E0-1C76-4CC1-9E5D-9DFDBC573B35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JorJika.Helpers.NumberHelper", "JorJika.Helpers.NumberHelper\JorJika.Helpers.NumberHelper.csproj", "{69BE02E0-1C76-4CC1-9E5D-9DFDBC573B35}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
