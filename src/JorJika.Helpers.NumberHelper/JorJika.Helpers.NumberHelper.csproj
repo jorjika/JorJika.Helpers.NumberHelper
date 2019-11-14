@@ -20,6 +20,8 @@ Usage: NumberHelper.NumberToWord(123); Or NumberHelper.DecimalToWord(123.25, "GE
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Company>JorJika.Net</Company>
+    <AssemblyVersion>1.0.1.0</AssemblyVersion>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
